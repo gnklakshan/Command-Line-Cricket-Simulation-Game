@@ -1,0 +1,42 @@
+********************
+   TEAM 1 DETAILS
+--------------------
+Name sri lanka
+Batsmans 4
+Bowlers 4
+All_rounders 3
+--------------------
+   TEAM 1 PLAYERS
+--------------------
+Charith Asalanka
+Danushka Gunathilaka
+Pathum Nissanka
+Bhanuka Rajapaksa
+Dushmantha Chameera
+Lahiru Kumara
+Dilshan Madushanka
+Maheesh Theekshana
+Dasun Shanaka
+Dhananjaya de Silva
+Wanindu Hasaranga
+********************
+   TEAM 2 DETAILS
+--------------------
+Name India
+Batsmans 4
+Bowlers 4
+All_rounders 3
+--------------------
+   TEAM 2 PLAYERS
+--------------------
+Sharma
+Virat Kholi
+Shreyas lyer
+Kl Rahul
+Jasprit Bumrah
+Mohomad Shami
+Shardul Thkur
+Umesh Yadav
+Jadeja
+pandya
+RavichandranAshwin
